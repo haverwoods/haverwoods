@@ -30,6 +30,7 @@
 ## 📈 GitHub Stats  
 
  ![](https://github-readme-stats.vercel.app/api?username=haverwoods&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+ ![](https://github-readme-streak-stats.herokuapp.com/?user=haverwoods&theme=vue-dark&hide_border=true)
  <br>
  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haverwoods&theme=city_lights)
  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haverwoods&theme=city_lights)
