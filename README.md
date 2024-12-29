@@ -33,7 +33,7 @@
  <br>
  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haverwoods&theme=city_lights)
  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haverwoods&theme=city_lights)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haverwoods&theme=city_lights)
+
 
 ## 📫 Let's Connect  
 
