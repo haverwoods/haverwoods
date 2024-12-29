@@ -9,10 +9,9 @@
 📚 Open to collaborating on projects and contributing to impactful ideas.
 
 ---
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haverwoods&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haverwoods&radius=16&theme=react&area=true&order=5" height="300" alt="profile-graph graph" />
- </div>
+
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haverwoods&theme=blueberry)
+
   
    
 
@@ -34,6 +33,7 @@
  <br>
  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haverwoods&theme=city_lights)
  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haverwoods&theme=city_lights)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haverwoods&theme=city_lights)
 
 ## 📫 Let's Connect  
 
