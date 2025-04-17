@@ -13,7 +13,7 @@
 
 Currently contributing to a **private enterprise codebase** using **Bitbucket**, so my GitHub activity may not reflect my current work.
 
-
+---
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haverwoods&theme=blueberry)
 
   
