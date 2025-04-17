@@ -3,9 +3,9 @@
 
 ## 🚀 About Me  
 
-👨‍💻 **Full-Stack Developer** I make scalable full-stack applications.    
-💡  Continuously improving my skills, currently on  **Next.js**, **React.js**, **Node.js**, cloud tools like **Render**, **Supabase**, and **AWS**.  
-📚 Open to collaborating on projects and contributing in it.
+👨‍💻 **Full-Stack Developer building scalable full-stack applications.**
+💡 **Constantly leveling up my skills — currently focused on Next.js, React.js, Node.js, and cloud tools like Render, Supabase, and AWS.**
+📚 **Open to collaborating on impactful projects and contributing meaningfully.**
 
 ---
 
