@@ -1,4 +1,4 @@
-# 🌟 Hi, I'm Sam! 👋  
+# I'm Sam 
 ---
 
 ## 🚀 About Me  
