@@ -3,12 +3,16 @@
 
 ## 🚀 About Me  
 
-👨‍💻 **Full-Stack Developer** passionate about crafting scalable, efficient, and user-friendly web application.  
-💡 Always curious about new technologies and methodologies to solve problems creatively.  
-🌱 Continuously improving my skills, with a focus on **React.js**, **Node.js**, and cloud technologies like **AWS**.  
-📚 Open to collaborating on projects and contributing to impactful ideas.
+👨‍💻 **Full-Stack Developer** I make scalable full-stack applications.    
+💡  Continuously improving my skills, currently on  **Next.js**, **React.js**, **Node.js**, cloud tools like **Render**, **Supabase**, and **AWS**.  
+📚 Open to collaborating on projects and contributing in it.
 
 ---
+
+## 📢 Note on Activity
+
+Currently contributing to a **private enterprise codebase** using **Bitbucket**, so my GitHub activity may not reflect my current work.
+
 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haverwoods&theme=blueberry)
 
@@ -19,11 +23,12 @@
 ---
 ## 🛠️ Tech Stack & Tools  
 
-- **Frontend:** React.js, JavaScript, TailwindCSS  
-- **Backend:** Node.js, Express.js, Prisma , drizzle 
-- **Database:** PostgreSQL, MySQL, MongoDB  
-- **Hosting:** Netlify, Vercel, AWS  
-- **Others:** Git, Figma 
+- **Frontend:** Next.js, React.js, JavaScript, TailwindCSS  
+- **Backend:** Node.js, Express.js, Prisma, Drizzle  
+- **Database:** PostgreSQL, MySQL, MongoDB, Supabase  
+- **Hosting:** Vercel, Netlify, Render, AWS  
+- **Tools:** Git, Figma  
+
 ---
 
 ## 📈 GitHub Stats  
