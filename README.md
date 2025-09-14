@@ -1,50 +1,38 @@
-# const
----
+```ts
+const devProfile: Developer = {
+  name: "Samrat Shrestha",
+  role: "Full-Stack Engineer",
+  status: "ship baby ship 🚀",
+{
+  "whoami": {
+    "title": "Full-stack solver",
+    "description": [
+      "Loves clean abstractions & building scalable systems",
+      "Builder first, talker second"
+      "Ship fast, refactor later (but always refactor)"
+       "Automation > Repetition",
+        "Think in systems, not scripts"
+         "Readable code scales, hacks don’t",
+    ]
+  }
+}
+  stack: {
+    frontend: ["Next.js", "React.js", "TypeScript", "TailwindCSS"],
+    backend: ["Node.js", "Express.js", "Prisma", "Drizzle"],
+    database: ["PostgreSQL", "MySQL", "MongoDB", "Supabase"],
+    cloud: ["AWS"],
+    devOps: ["GitHub Actions", "Docker", "CI/CD"],
+  },
+  activity: {
+    status: "Contributing to private Bitbucket enterprise repo 🔒"
+  },
+  contact: {
+    email: "shresthasamrat307@gmail.com",
+  }
+}
 
-## 🚀 About Me  
-
-👨‍💻 **Full-Stack Developer building scalable full-stack applications.**
-💡 **Constantly leveling up my skills — currently focused on Next.js, React.js, Node.js, and cloud tools like Render, Supabase, and AWS.**
-📚 **Open to collaborating on impactful projects and contributing meaningfully.**
-
----
-
-## 📢 Note on Activity
-
-Currently contributing to a **private enterprise codebase** using **Bitbucket**, so my GitHub activity may not reflect my current work.
-
----
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haverwoods&theme=blueberry)
-
-  
-   
-
-
----
-## 🛠️ Tech Stack & Tools  
-
-- **Frontend:** Next.js, React.js, JavaScript, TailwindCSS  
-- **Backend:** Node.js, Express.js, Prisma, Drizzle  
-- **Database:** PostgreSQL, MySQL, MongoDB, Supabase  
-- **Hosting:** Vercel, Netlify, Render, AWS  
-- **Tools:** Git, Figma  
-
----
-
-## 📈 GitHub Stats  
-
- ![](https://github-readme-stats.vercel.app/api?username=haverwoods&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
- ![](https://github-readme-streak-stats.herokuapp.com/?user=haverwoods&theme=vue-dark&hide_border=true)
- <br>
- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haverwoods&theme=city_lights)
- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haverwoods&theme=city_lights)
+```
 
 
-## 📫 Let's Connect  
+![](https://github-readme-stats.vercel.app/api?username=haverwoods&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=haverwoods&theme=vue-dark&hide_border=true) <br> ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haverwoods&theme=city_lights) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haverwoods&theme=city_lights)
 
-- Drop an email:[shresthasamrat307@gmail.com](mailto:shresthasamrat307@gmail.com)  
-- Let’s connect on LinkedIn: [www.linkedin.com/in/samrat-shrestha-77480a2ba]  
-
----
-
-🙌 Let’s code
