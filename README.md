@@ -1,13 +1,12 @@
 ```ts
 const devProfile: Developer = {
-  name: "Samrat Shrestha",
+  name: "Samrat",
   role: "Full-Stack Engineer",
   status: "ship baby ship 🚀",
 {
   "whoami": {
-    "title": "Full-stack solver",
+    "title": "just a guy who codes",
     "description": [
-      "Loves clean abstractions & building scalable systems",
       "Builder first, talker second"
       "Ship fast, refactor later (but always refactor)"
        "Automation > Repetition",
