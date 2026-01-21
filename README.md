@@ -1,37 +1,35 @@
-```ts
-const devProfile: Developer = {
-  name: "Samrat",
-  role: "Full-Stack Engineer",
-  status: "ship baby ship 🚀",
-{
-  "whoami": {
-    "title": "just a guy who codes",
-    "description": [
-      "Builder first, talker second"
-      "Ship fast, refactor later (but always refactor)"
-       "Automation > Repetition",
-        "Think in systems, not scripts"
-         "Readable code scales, hacks don’t",
-    ]
-  }
-}
-  stack: {
-    frontend: ["Next.js", "React.js", "TypeScript", "TailwindCSS"],
-    backend: ["Node.js", "Express.js", "Prisma", "Drizzle"],
-    database: ["PostgreSQL", "MySQL", "MongoDB", "Supabase"],
-    cloud: ["AWS"],
-    devOps: ["GitHub Actions", "Docker", "CI/CD"],
-  },
-  activity: {
-    status: "Contributing to private Bitbucket enterprise repo 🔒"
-  },
-  contact: {
-    email: "shresthasamrat307@gmail.com",
-  }
-}
+<h1 align="left">Sam here ,</h1>
 
-```
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+</div>
 
+###
 
-![](https://github-readme-stats.vercel.app/api?username=haverwoods&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=haverwoods&theme=vue-dark&hide_border=true) <br> ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haverwoods&theme=city_lights) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haverwoods&theme=city_lights)
+<div align="left">
+  <a href="https://x.com/Haverwoods" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+</div>
 
+###
+
+<img src="https://raw.githubusercontent.com/haverwoods/haverwoods/output/snake.svg" alt="Snake animation" />
+
+###
